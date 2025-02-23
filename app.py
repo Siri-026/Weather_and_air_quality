@@ -5,7 +5,6 @@ from forms import CarbonFootPrintForm
 import joblib
 import pandas as pd
 import plotly.express as px 
-import requests
 from datetime import datetime
 from flask_migrate import Migrate
 from flask_login import LoginManager,UserMixin
