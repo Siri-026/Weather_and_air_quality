@@ -9,4 +9,8 @@ plotly.express
 datetime
 flask_migrate
 flask_login
+forms
+flask_wtf
+wtforms
+wtforms.validators
 
