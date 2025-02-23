@@ -1,7 +1,7 @@
 from flask import Flask, render_template, session, request, redirect, url_for, jsonify,flash
 import requests
 from flask_sqlalchemy import SQLAlchemy
-from forms import CarbonFootPrintForm
+from flask-wtf import CarbonFootPrintForm
 import joblib
 import pandas as pd
 import plotly.express as px 
