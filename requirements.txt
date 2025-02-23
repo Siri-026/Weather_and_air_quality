@@ -1,3 +1,12 @@
 Flask
 gunicorn
 requests
+flask_sqlalchemy
+forms
+joblib
+pandas 
+plotly.express
+datetime
+flask_migrate
+flask_login
+
