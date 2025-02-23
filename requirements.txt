@@ -2,7 +2,7 @@ Flask
 gunicorn
 requests
 flask_sqlalchemy
-forms
+flask-wtf
 joblib
 pandas 
 plotly.express
