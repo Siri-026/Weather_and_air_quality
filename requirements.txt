@@ -14,4 +14,4 @@ wtforms
 wtforms.validators
 numpy
 matplotlib
-sklearn
+scikit-learn
